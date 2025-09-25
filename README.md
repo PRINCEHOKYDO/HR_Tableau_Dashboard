@@ -5,7 +5,7 @@
 
 Click the image below to explore the interactive dashboard on **Tableau Public**:
 
-[![Tableau Dashboard Preview](images/tableau_dashboard.png)](https://public.tableau.com/views/YourProjectName/YourDashboardName)
+[![Tableau Dashboard Preview](images/tableau_dashboard.png)](https://public.tableau.com/views/Project-HRDashboard_17588353376130/HRSummary?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 # HR Dashboard  
 
