@@ -1,5 +1,11 @@
 # HR_Tableau_Dashboard
-HR Analytics Dashboard
+---
+
+## 📊 Tableau Dashboard (Interactive)
+
+Click the image below to explore the interactive dashboard on **Tableau Public**:
+
+[![Tableau Dashboard Preview](images/tableau_dashboard.png)](https://public.tableau.com/views/YourProjectName/YourDashboardName)
 
 # HR Dashboard  
 
