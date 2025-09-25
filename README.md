@@ -1,10 +1,20 @@
 # HR_Tableau_Dashboard
 HR Analytics Dashboard
+
 # HR Dashboard  
 
 ## User Story  
 
 **As an HR manager, I want a comprehensive dashboard to analyze human resources data, providing both summary views for high-level insights and detailed employee records for in-depth analysis.**
+
+---
+
+## 📑 Table of Contents  
+- [Summary View](#summary-view)  
+  - [📊 Overview](#-overview)  
+  - [👥 Demographics](#-demographics)  
+  - [💰 Income Analysis](#-income-analysis)  
+- [Employee Records View](#employee-records-view)  
 
 ---
 
@@ -42,13 +52,13 @@ Focuses on salary-related metrics:
 ## Employee Records View  
 
 Provides a **comprehensive list of all employees** with the following information:  
-- Name  
-- Department  
-- Position  
-- Gender  
-- Age  
-- Education  
-- Salary  
+- **Name**  
+- **Department**  
+- **Position**  
+- **Gender**  
+- **Age**  
+- **Education**  
+- **Salary**  
 
 ### 🔎 Functionalities  
 - Users can **filter the list based on any of the available columns**.  
