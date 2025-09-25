@@ -5,7 +5,7 @@
 
 Click the image below to explore the interactive dashboard on **Tableau Public**:
 
-[![Tableau Dashboard Preview](https://github.com/PRINCEHOKYDO/HR_Tableau_Dashboard/blob/main/Overview.jpeg?raw=true)](https://public.tableau.com/views/Project-HRDashboard_17588353376130/HRSummary?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+[View the Interactive Tableau Dashboard](https://public.tableau.com/views/Project-HRDashboard_17588353376130/HRSummary?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 # HR Dashboard  
 
@@ -75,6 +75,6 @@ Provides a **comprehensive list of all employees** with the following informatio
 
 Here’s a preview of the HR Dashboard built in Tableau:  
 
-![Tableau Dashboard](https://github.com/PRINCEHOKYDO/HR_Tableau_Dashboard/blob/main/WhatsApp%20Image%202025-09-26%20at%203.25.21%20AM.jpeg?raw=true)
+![Tableau Dashboard](https://github.com/PRINCEHOKYDO/HR_Tableau_Dashboard/blob/main/Overview.jpeg?raw=true)
 
-![Tableau Dashboard](https://github.com/PRINCEHOKYDO/HR_Tableau_Dashboard/blob/main/image.png?raw=true)
+![Tableau Dashboard](https://github.com/PRINCEHOKYDO/HR_Tableau_Dashboard/blob/main/Dashboard_Details.png?raw=true)
