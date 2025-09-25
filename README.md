@@ -68,5 +68,6 @@ Provides a **comprehensive list of all employees** with the following informatio
 ## 📷 Tableau Dashboard Preview  
 
 Here’s a preview of the HR Dashboard built in Tableau:  
+![Tableau Dashboard](https://github.com/PRINCEHOKYDO/HR_Tableau_Dashboard/blob/main/WhatsApp%20Image%202025-09-26%20at%203.25.21%20AM.jpeg?raw=true)
 
 ![Tableau Dashboard](https://github.com/PRINCEHOKYDO/HR_Tableau_Dashboard/blob/main/image.png?raw=true)
