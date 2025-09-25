@@ -3,7 +3,7 @@
 
 ## 📊 Tableau Dashboard (Interactive)
 
-Click the image below to explore the interactive dashboard on **Tableau Public**:
+Click the text below to explore the interactive dashboard on **Tableau Public**:
 
 [View the Interactive Tableau Dashboard](https://public.tableau.com/views/Project-HRDashboard_17588353376130/HRSummary?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
